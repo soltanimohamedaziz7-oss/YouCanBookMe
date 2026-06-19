@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #66BBBE;
+}
+.header-img {
+  margin: 4px;
+}
+.header-nav-link {
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */
