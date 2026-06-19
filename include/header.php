@@ -1,0 +1,12 @@
+<header class="header">
+    <img src="../img/Group.png" alt="logo" class="header-img">
+    <nav class="header-nav">
+        <a href="" class="header-nav-link">prestaires de santé</a>
+        <a href="" class="header-nav-link">suivi medical</a>
+        <a href="" class="header-nav-link">Rdv's</a>
+    </nav>
+    <nav class="header-login">
+        <a href="" class="header-login-link">se connecté</a>
+        <a href="" class="header-login-link">créer un compte</a>
+    </nav>
+</header> 
